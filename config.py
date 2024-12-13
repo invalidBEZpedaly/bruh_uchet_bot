@@ -1,5 +1,5 @@
 BOT_TOKEN = "7789951598:AAGyemY0TyuxjJOOOCBTy-kilv6S2yiX2AE"
-DB_HOST = "localhost"
+DB_HOST = "194.87.76.175"
 DB_NAME = "expenses_db"
 DB_USER = "postgres"
 DB_PASSWORD = "1"
